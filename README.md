@@ -1,5 +1,7 @@
 # cobalt-desktop
 
+check out https://github.com/wukko/cobalt
+
 still in development, no promises i'll actually release it, but i made this to motivate myself to work on it
 
 is my first c++ app, uses imgui and maybe more stuff
