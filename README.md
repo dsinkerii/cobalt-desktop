@@ -6,6 +6,8 @@ in very huge wip, i dont have much time to work on it atm, sorrey
 
 is my first c++ app, uses imgui and maybe more stuff
 
+![ezgif com-video-to-gif-converter](https://github.com/dsinkerii/cobalt-desktop/assets/104655906/005b38aa-84dc-4152-9427-ce26cf809972)
+
 quote from `main.cpp`:
 
 ```
