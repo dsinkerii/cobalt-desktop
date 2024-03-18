@@ -14,7 +14,6 @@ is my first c++ app, uses imgui and maybe more stuff
 - error handling
 - client-side download history preview
 - custom download paths
-- yt music link decancer (i'll explain later)
 
 quote from `main.cpp`:
 
