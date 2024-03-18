@@ -8,6 +8,14 @@ is my first c++ app, uses imgui and maybe more stuff
 
 ![ezgif com-video-to-gif-converter](https://github.com/dsinkerii/cobalt-desktop/assets/104655906/005b38aa-84dc-4152-9427-ce26cf809972)
 
+# TODO's: 
+(this is more of a thing for me than anything, but whatever lmao)
+- add settings
+- error handling
+- client-side download history preview
+- custom download paths
+- yt music link decanced (i'll explain later)
+
 quote from `main.cpp`:
 
 ```
