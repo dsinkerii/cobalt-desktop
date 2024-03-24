@@ -15,6 +15,8 @@ is my first c++ app, uses imgui and maybe more stuff
 - client-side download history preview
 - custom download paths
 - text in errors have html tags, i need to fix that
+- downloads should be inside of the app, not open a file manager
+  
 quote from `main.cpp`:
 
 ```
