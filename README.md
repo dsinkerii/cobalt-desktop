@@ -14,7 +14,7 @@ is my first c++ app, uses imgui and maybe more stuff
 - error handling
 - client-side download history preview
 - custom download paths
-
+- text in errors have html tags, i need to fix that
 quote from `main.cpp`:
 
 ```
