@@ -1,5 +1,7 @@
 # cobalt-desktop
 
+# c++ version might get canned, please stay tuned for a c# version as im currently learning it and might rewrite the whole project for c#
+
 check out https://github.com/wukko/cobalt
 
 in very huge wip, i dont have much time to work on it atm, sorrey
